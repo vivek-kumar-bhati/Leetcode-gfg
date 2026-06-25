@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vivek-kumar-bhati/Leetcode-gfg/tree/master/0075-sort-colors) |
+| [1672-richest-customer-wealth](https://github.com/vivek-kumar-bhati/Leetcode-gfg/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vivek-kumar-bhati/Leetcode-gfg/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/vivek-kumar-bhati/Leetcode-gfg/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
